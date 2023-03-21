@@ -5,7 +5,7 @@
  *0
  *
  *@c: The character is ASCII code
- * 
+ *
  *Return: 1 for lower case character
  */
 
