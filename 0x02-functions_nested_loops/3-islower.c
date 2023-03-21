@@ -2,7 +2,12 @@
 /**
  *
  *main - Entry point
+ *_islower - shows l if the input is a
+ *lowercase character. Another cases, shows
+ *0
  *
+ *@c: The character is ASCII code
+ * 
  *Return:  always 0
  */
 int main(void)
