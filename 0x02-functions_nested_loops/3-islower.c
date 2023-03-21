@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- *
- *main - Entry point
+ * 
  *_islower - shows l if the input is a
  *lowercase character. Another cases, shows
  *0
