@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * _isdigit - digit about to be processed
  * main - check the code
  *@c: digit returned
  * Return: 0 or 1
