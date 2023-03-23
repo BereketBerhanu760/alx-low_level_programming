@@ -1,15 +1,14 @@
-#include "main.h"
+#include "main"
 
 /**
- *print_number - entry point
- *@c: int
- *Return: always 0
+ *print_number - prints value*
  *
+ *Return: nothing
  */
 
 int print_number(void)
 {
-	int c;
+	char c;
 
 	for (c = 0; c <= 9; c++)
 	{
